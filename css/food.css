@@ -1,0 +1,277 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:rgb(246, 246, 241) ;
+   
+    
+}
+
+nav{
+    height: 60px;
+    background-color: #281a1a
+    ;
+    border: 1px solid black;
+    
+}
+.logo{
+    height: 50px;
+    width: 40px;
+    margin-left: 100px;
+}
+.logo,h1{
+    display: inline;
+}
+span ,h1.eaters{
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight:bolder ;
+    margin-top: 20px;
+    color: yellow;
+    
+    
+}
+nav, a {
+    text-decoration: none;
+    padding: 10px;
+    color: aliceblue;
+    font-size: 15px;
+    
+    
+}
+a{
+    text-align: center;
+}
+a:hover{
+    background-color: aliceblue;
+}
+
+.order{
+    background-color: yellow;
+    color:#281a1a;
+    width: 100px;
+    height: 25px;
+    border-radius: 10px;
+    margin-left: 300px;
+    
+}
+.order:hover{
+    background-color: aliceblue;
+    color: black;
+}
+#menu{
+    width: 20px;
+    background: none;
+    border: 0;
+    color: aliceblue;
+}
+.one-heading{font-size: 80px;
+color: #281a1a;}
+.sec-one{
+    margin-top: 110px;
+    margin-left: 200px;
+}
+
+.one-img{
+    height: 550px;
+    width: 550px;
+    margin-left: 35%;
+    position: relative;
+    bottom: 250px;
+}
+.explore{
+    background-color: yellow;
+    color:#281a1a ;
+    height: 30px;
+    width: 180px;
+    border-radius: 10px;
+}
+
+.box-hr{
+    background-color: #281a1a;
+    height: 40px;
+    position: relative;
+    bottom: 400px;
+}
+.sec-two{
+    text-align: center;
+    position: relative;
+    bottom: 250px;
+
+}
+
+.head-two{
+    color:#281a1a;
+    font-size: 50px;
+}
+
+.img-two{
+   
+}
+.img{
+    height: 370px;
+    width: 220px;
+    border: 5px solid #281a1a;
+  
+}
+
+  .img{
+    background: #fff;
+    border-radius: 15px;
+    padding: 22px ;
+    text-align: center;
+    
+    margin-left: 15px;
+    border: 2px solid #281a1a }
+
+              
+ .img-two{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.line-two{
+    border:2px solid #281a1a ;
+    border-radius: 15px;
+    background-color: yellow;
+    color: #281a1a;
+    font-weight: bold;
+}
+
+.color-three{
+    background-color: #281a1a;
+    height: 700px;
+    margin-top: 100px;
+}
+.sec-three{
+    position: relative;
+    padding: 50px;
+}
+.offer{
+   
+    background-color: yellow;
+    border-radius: 10px;
+    height: 30px;
+    width: 150px;
+    text-align: center;
+    
+    
+}
+
+.head-three{
+    font-size: 100px;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.line-three{
+    color: #fff;
+    margin-left: 100px;
+
+}
+
+.img-three{
+    height: 550px;
+    width: 530px;
+    margin-left: 60%;
+    position: relative;
+    bottom: 480px;
+    border: 1px solid white;
+}
+
+.sec-four{
+    background-color: #281a1a;
+    height: 400px;
+    width: 420px;
+    margin-top: 200px;
+    margin-left: 50px;
+    border-radius: 10px;
+   
+
+}
+.head-four{
+    font-size: 50px;
+    margin-left: 20px; 
+    color: #fff;
+}
+
+.line-four{
+    margin-left: 10px;
+     color: #fff;
+}
+.address
+{ color: #fff;
+    margin-left: 30px;
+}
+
+.get-four{
+   position: relative;
+   margin-left: 45%;
+   bottom: 490px;
+
+}
+.info{
+    margin-left: 90px;
+    font-weight: bold;
+    color: brown;
+}
+.contact{
+    font-size: 60px;
+    text-decoration: underline brown;
+    color: #281a1a;
+}
+.form{
+    position: relative;
+    top: 50px;
+    width: 600px;
+    
+    height: 300px;
+    margin-right: 100px;
+   
+    
+
+}
+#mess{
+    height: 150px;
+    width: 600px;
+}
+
+.submit{
+    width: 150px;
+    height: 50px;
+    color: #fff;
+    background-color: #281a1a;
+    border-radius: 10px;
+}
+
+
+.footer{
+    background-color: #281a1a;
+     color: #fff;
+     height: 600px;
+     padding: 50px;
+     
+}
+.last-foot
+{
+    position: relative;
+    margin-left: 50%;
+    bottom: 60px;
+    padding: 20px;
+}
+.quick-menu{
+    position: relative;
+    margin-left: 70%;
+    bottom: 218px;
+}
+.last-add{
+    position: relative;
+    margin-left: 80%;
+    bottom: 360px;
+}
+   
+
+
+
