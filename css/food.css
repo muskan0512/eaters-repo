@@ -106,9 +106,7 @@ color: #281a1a;}
     font-size: 50px;
 }
 
-.img-two{
-   
-}
+
 .img{
     height: 370px;
     width: 220px;
@@ -248,9 +246,9 @@ color: #281a1a;}
 
 
 .footer{
-    background-color: #281a1a;
+     background-color: #281a1a;
      color: #fff;
-     height: 600px;
+     /* height: 500px; */
      padding: 50px;
      
 }
@@ -258,18 +256,19 @@ color: #281a1a;}
 {
     position: relative;
     margin-left: 50%;
-    bottom: 60px;
+    /* bottom: 60px; */
     padding: 20px;
+    top: 300px;
 }
 .quick-menu{
     position: relative;
     margin-left: 70%;
-    bottom: 218px;
+    top: 140px;
 }
 .last-add{
     position: relative;
     margin-left: 80%;
-    bottom: 360px;
+    /* bottom: 360px; */
 }
    
 
